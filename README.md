@@ -8,4 +8,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/shruthireddy-1505/november_2025/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/shruthireddy-1505/november_2025/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shruthireddy-1505/november_2025/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shruthireddy-1505/november_2025/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shruthireddy-1505/november_2025/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shruthireddy-1505/november_2025/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
